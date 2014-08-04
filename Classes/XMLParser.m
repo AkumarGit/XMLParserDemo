@@ -31,7 +31,8 @@
 {
     tweets=[[NSMutableArray alloc]init];
     dicRes=[[NSMutableDictionary alloc]init];
-
+    NSLog(@"Test");
+    
 }
 // sent when the parser begins parsing of the document.
 
